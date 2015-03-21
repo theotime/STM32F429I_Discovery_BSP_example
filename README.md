@@ -5,7 +5,7 @@ You need [STM32CubeF4](http://www.st.com/web/catalog/tools/FM147/CL1794/SC961/SS
 ```
 sudo add-apt-repository -y ppa:terry.guo/gcc-arm-embedded
 sudo apt-get update
-sudo apt-get -y install gcc-arm-none-eabi gdb-arm-none-eabi binutils-arm-none-eabi openocd
+sudo apt-get -y install gcc-arm-none-eabi gdb-arm-none-eabi binutils-arm-none-eabi
 ```
 
 Compile and flash the board:
